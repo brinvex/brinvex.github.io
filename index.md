@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+### Brinvex
+*Investing powered by Data Science and Technology*
 
-You can use the [editor on GitHub](https://github.com/brinvex/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Brinvex is a collection of software tools created by individual 
+investors for individual investors seeking to streamline their stock market investing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At the heart of Brinvex are three key features:
+- **Portfolio Tracking**: Effortlessly track your investments across multiple brokers.
+- **Performance Analysis**: Gain deep insights into your investment performance with advanced metrics and calculations.
+- **Investment Simulations**: Test different investment strategies and scenarios on real market data.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some of Brinvex tools are also available as open-source on [GitHub](https://github.com/brinvex):
 
-```markdown
-Syntax highlighted code block
+- **[Brinvex Investment Performance Analyzer](https://github.com/brinvex/brinvex-investperf)**: A Java library for calculating and analyzing investment performance, adhering to Global Investment Performance Standards (GIPS) for precise results.
+- **[Brinvex Broker Connect](https://github.com/brinvex/brinvex-brokercon)**: A tool that simplifies portfolio tracking by collecting transactions and daily asset values from brokers, with support for both online and manual inputs.
+- **[Brinvex ECB](https://github.com/brinvex/brinvex-ecb)**: A Java library for accessing the European Central Bank's Data API, making it easier to retrieve economic data.
+- **[Brinvex Persistence](https://github.com/brinvex/brinvex-persistence)**: A Java library simplifying data access for Java applications, focusing on PostgreSQL and Microsoft SQL Server.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+I am open to exploring work partnerships of any kind. Whether you’re interested in collaboration, integration, or other opportunities, feel free to get in touch!
 
-1. Numbered
-2. List
+[info@brinvex.com](mailto:info@brinvex.com)
+<br/>[https://brinvex.com](https://brinvex.com)
+<br/>[https://github.com/brinvex](https://github.com/brinvex)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brinvex/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
