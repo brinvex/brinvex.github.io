@@ -1,5 +1,5 @@
 ### Brinvex
-*Investing powered by Data Science and Technology*
+*Capital Market Investing powered by Math and Technology*
 
 Brinvex is a collection of software tools created by individual 
 investors for individual investors seeking to streamline their stock market investing.
