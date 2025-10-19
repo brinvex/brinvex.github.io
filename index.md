@@ -6,7 +6,7 @@ Brinvex is a collection of fintech tools built around stock-market investing.
   Java library for calculating and analyzing investment performance, adhering to 
   _Global Investment Performance Standards (GIPS)_ for precise results.
 
-- **[Brinvex Broker Connect](https://github.com/brinvex/brinvex-brokercon)**  
+- **[Brinvex Broker Connector](https://github.com/brinvex/brinvex-broker-connector)**  
   Java library that simplifies portfolio tracking by aggregating
   transactions and daily valuations across multiple brokers.
 
