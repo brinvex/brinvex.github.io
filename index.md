@@ -1,6 +1,7 @@
 ### Brinvex
 
-Brinvex is a collection of fintech tools built around stock-market investing.
+Brinvex is a toolkit that combines technology and finance 
+to help research and manage stock-market investments.
 
 - **[Brinvex Investment Performance Analyzer](https://github.com/brinvex/brinvex-investperf)**  
   Java library for calculating and analyzing investment performance, adhering to 
@@ -10,14 +11,16 @@ Brinvex is a collection of fintech tools built around stock-market investing.
   Java library that simplifies portfolio tracking by aggregating
   transactions and daily valuations across multiple brokers.
 
-- **[Brinvex Market Data](https://github.com/brinvex/)** 🔒   
-  Standalone system for retrieving, storing and effectively accessing stock-market data.
+- **[Brinvex Market Data](https://github.com/brinvex/)**  
+  Standalone system for retrieving, storing, and effectively accessing stock-market data.
 
-- **[Brinvex Investment Strategy Simulator](https://github.com/brinvex/)** 🔒  
-  Engine for backtesting investment strategy scenarios on historical market data.
+- **[Brinvex Finlab](https://github.com/brinvex/brinvex-finlab)**  
+  Ultimate Brinvex system for researching and managing stock-market investments.
+  Analyzes and manages real portfolios based on trading strategies 
+  developed and backtested in its built-in simulator using historical market data.
 
 - **[Brinvex ECB](https://github.com/brinvex/brinvex-ecb)**  
-  Java client for the _European Central Bank’s Data API_.
+  Java connector for accessing the _European Central Bank’s Data API_.
   
 Brinvex also encompasses general Java utilities:
 
@@ -27,11 +30,12 @@ Brinvex also encompasses general Java utilities:
 - **[Brinvex Java](https://github.com/brinvex/brinvex-java)**  
   Collection of general-purpose Java helper utilities.
 
-The preferred technologies used across Brinvex projects include: _Java, Spring Framework, Spring Boot, Hibernate, PostgreSQL, Kafka, Vaadin, Rest, Excel, Power Query, Maven, GitHub._
+The preferred technologies used across Brinvex projects include: _Java, Spring, Hibernate, PostgreSQL, Kafka, Excel._
 
-I am open to exploring work partnerships of any kind. Whether you’re interested in collaboration, integration, or other opportunities, feel free to get in touch.
+As the author of the Brinvex project, I’m open to exploring work partnerships of any kind. Whether you’re interested in collaboration, integration, or other opportunities, feel free to get in touch.
 
 [info@brinvex.com](mailto:info@brinvex.com)
 <br/>[https://brinvex.com](https://brinvex.com)
 <br/>[https://github.com/brinvex](https://github.com/brinvex)
+<br/>[https://github.com/orgs/brinvex/repositories](https://github.com/orgs/brinvex/repositories?q=sort%3Astars)
 
